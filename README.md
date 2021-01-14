@@ -1,13 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 ,Sound of metal
-https://858143368.tapecontent.net/radosgw/3xJpvjelR0udV92/ywjpWWz3yfn6LLopbQwiQZjcOSq2CaoYsXEbpRxECFzXd99-HT5gx-qsKMnJjzo66gBtiQBFa6OKNjIMz08r2l5y9aZDTvxU9dRRaDoHBOImA1HlCtQKxWLELMLV_2DEyYfeHMxfPHv1BI6rSKY3Gs-tu11dXkoVf9l7dcPR4Wa0pMNqPXIfzK-Phkk92ecKlW08HLLeuH0dRvQnUO3JIMcJz1ipQS3f5fMLoWzP0z69Oy5DSdSIAroNS9KsSPORqp2rNI67bN6JYyWYIGu0CKwuWkb1LNrkjom1iw/kgjjQDeMPgL.mp4?stream=1
-#EXTINF:-1 ,minari
-https://908471852.tapecontent.net/radosgw/vDWGbGlWDyfDOW/PbW3_E0DcKkJE-0TCiiR4CRYLswy26NWZhI5mIyKEyeMQAAhYtVYNF0IvN6F_hqO9KJn8nxELeY8dbWFvjCEDxCWQSZOiy_-7kTSkidzvBDB02RKQmilT7ozTSNAejh1Y9gIwkEoQH0mpsBWqi99dv9FxMu947l3b45d3GQ86ZaXzLMA5WicFonYnP-EacyehDPa1aiSZwo6CAK1qKK4-gl6q9rcsng1afakyUTibjPgxezQmx_WeddQxNYpQ4aezA_CAj_2zIv5QkT1J9_myHETDpcxdyulIGFw6Q/73d0QwoEx3D.mp4?stream=1
+https://www800.ff-02.com/token=neGPYggQPyyLTZ_tVfUNUw/1610669141/2803:c180::/142/7/f8/cda99c352360451c93058253098e5f87-1080p.mp4
 #EXTINF:-1 ,minari
 http://144.217.180.154/SERVIDOR_3/Minari%202020%20720p.mp4
-#EXTINF:-1 ,hater
-https://861520851.tapecontent.net/radosgw/mO4Y3p2YajubLVr/LLf1f2Ui3UjYoD3r7R4MSWcBZpBbif4J-PJYh7KJthvV4lnuHUkqAlIIyNghp-dO83rR6rz1Ct_BGEENGE4uKAp2T10xLHd8zKAfv6Dr7PTWyrqC0WtE5TSOJfqpCoJNIwFm98yK6_RFtjqeAiUrcVIZrJI7r-DCtlSTUvlKMgWeCZwKnP3cFSmaENfHd2JKC5trNNL6dwdIOq_F06JN1p088e2gMgvA-3QFHp_eHl2-O_alqa5j2YxGpifFUFYWomHYKhq8KgHQEhmZ-QXpFbYvGAOfwqe6toPaEu0fqXbFXEyYjy1RXfNsHHE/4pY60l0LdOZ-streamtape.mp4?stream=1
 #EXTINF:-1 ,hater
 http://sonicracing.xyz/peliculas/720/Hater.mkv
 #EXTINF:-1 ,Animaniacs 2020 p1
@@ -18,3 +14,47 @@ http://144.217.180.154/SERVIDOR_3/ANIMANIACS%20(2020)%2001%20TEMP%20DVD%2002_CAP
 http://144.217.180.154/SERVIDOR_3/ANIMANIACS%20(2020)%2001%20TEMP%20DVD%2003_CAP.11AL13_ES.mp4
 #EXTINF:-1 ,nomadland
 http://62.210.190.73/Movies/DRAMA/Nomadland%20(Sub-2020).mkv
+#EXTINF:-1 ,La Madre Del Blues
+https://www545.ff-02.com/token=FcV3TdKwXrUdYHu8a23edA/1610670370/2803:c180::/144/4/cd/5661306e055e0189b649f5c4acb84cd4-480p.mp4
+#EXTINF:-1 ,La Madre Del Blues
+http://144.217.180.154/SERVIDOR_3/La%20madre%20del%20blues%202020%201080p%20Latino.mp4
+#EXTINF:-1 ,Mank
+http://144.217.180.154/SERVIDOR_3/Mank%20(2020)%20lat.mp4
+#EXTINF:-1 ,El Juicio De Los 7 De Chicago
+http://144.217.180.154/SERVIDOR_3/El%20juicio%20de%20los%207%20de%20Chicago%20720p%20Hdrip%20latino.mp4
+#EXTINF:-1 ,The Minight Sky
+http://144.217.180.154/SERVIDOR_3/The_Midnight_Sky_2020_1080p.mp4
+#EXTINF:-1 ,Pieces_of_a_Woman
+http://144.217.180.154/SERVIDOR_3/Pieces_of_a_Woman_2020_1080p.mp4
+#EXTINF:-1 ,Gambito de Dama p1
+http://144.217.180.154/SERVIDOR_3/GAMBITO%20DE%20DAMA%2001%20TEMP%20DVD%2001C1AL5.mp4
+#EXTINF:-1 ,Gambito de Dama p2
+http://144.217.180.154/SERVIDOR_3/GAMBITO%20DE%20DAMA%2001%20TEMP%20DVD%2002C6AL7.mp4
+#EXTINF:-1 ,Soul
+http://144.217.180.154/SERVIDOR_3/Soul%5b2020%5d.mp4
+#EXTINF:-1 ,Ammonite
+https://www467.ff-01.com/token=HcwpILVaL2uMqTBm-fKLXg/1610671368/2803:c180::/140/f/1d/2844799ece4efbd2de6152edd27db1df-720p.mp4
+#EXTINF:-1 ,Hillbilly
+http://144.217.180.154/SERVIDOR_3/Hillbilly%20una%20elegIa%20rural.mp4
+#EXTINF:-1 ,His House
+http://144.217.180.154/SERVIDOR_3/His_House_2020_DVDCustom_HD_NTSC_Latino_5_1.mp4
+#EXTINF:-1 ,Tio Frank
+http://144.217.180.154/SERVIDOR_3/Uncle%20Frank%20(2020)%201080p%20Latino.mp4
+#EXTINF:-1 ,The Prom
+http://144.217.180.154/SERVIDOR_3/The_Prom_2020_1080p.mp4
+#EXTINF:-1 ,Borat 2
+http://144.217.180.154/SERVIDOR_3/Borat_Subsequent_Moviefilm_2020_1080p.mp4
+#EXTINF:-1 ,Las Brujas
+http://144.217.180.154/SERVIDOR_3/Las_Brujas_2020_1080p_LAT.mp4
+#EXTINF:-1 ,Mulan
+http://144.217.180.154/SERVIDOR_3/Mulan%202020%20DVD%20R1%20Latino.mp4
+#EXTINF:-1 ,Pixie
+http://144.217.180.154/SERVIDOR_3/Pixie%202020.mp4
+#EXTINF:-1 ,Tenet
+http://144.217.180.154/SERVIDOR_3/Tenet_2020_DVDR_R1_NTSC_Latino_ES.mp4
+#EXTINF:-1 ,Tengo Miedo Torero
+http://144.217.180.154/SERVIDOR_3/Tengo%20miedo%20torero%202020.mp4
+#EXTINF:-1 ,Wolfwalkers
+http://144.217.180.154/SERVIDOR_3/Wolfwalkers_2020_DVDCustom_HD_NTSC_Latino.mp4
+#EXTINF:-1 ,The Crood 2
+http://144.217.180.154/SERVIDOR_3/The_Croods_A_New_Age_2020.mp4
