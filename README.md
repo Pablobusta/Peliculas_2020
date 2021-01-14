@@ -15,8 +15,6 @@ http://144.217.180.154/SERVIDOR_3/ANIMANIACS%20(2020)%2001%20TEMP%20DVD%2003_CAP
 #EXTINF:-1 ,nomadland
 http://62.210.190.73/Movies/DRAMA/Nomadland%20(Sub-2020).mkv
 #EXTINF:-1 ,La Madre Del Blues
-https://www545.ff-02.com/token=FcV3TdKwXrUdYHu8a23edA/1610670370/2803:c180::/144/4/cd/5661306e055e0189b649f5c4acb84cd4-480p.mp4
-#EXTINF:-1 ,La Madre Del Blues
 http://144.217.180.154/SERVIDOR_3/La%20madre%20del%20blues%202020%201080p%20Latino.mp4
 #EXTINF:-1 ,Mank
 http://144.217.180.154/SERVIDOR_3/Mank%20(2020)%20lat.mp4
@@ -35,9 +33,9 @@ http://144.217.180.154/SERVIDOR_3/Soul%5b2020%5d.mp4
 #EXTINF:-1 ,Ammonite
 https://www467.ff-01.com/token=HcwpILVaL2uMqTBm-fKLXg/1610671368/2803:c180::/140/f/1d/2844799ece4efbd2de6152edd27db1df-720p.mp4
 #EXTINF:-1 ,Hillbilly
-http://144.217.180.154/SERVIDOR_3/Hillbilly%20una%20elegIa%20rural.mp4
+https://www642.ff-02.com/token=HiW0ISo_4KJd4A33_ngcfg/1610676047/2803:c180::/138/b/58/062ce04a9686d3b75a35683d37c7758b-1080p.mp4
 #EXTINF:-1 ,His House
-http://144.217.180.154/SERVIDOR_3/His_House_2020_DVDCustom_HD_NTSC_Latino_5_1.mp4
+https://thtqizeioc.mstreamcdn.com/j/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTA3MDUzNzQsImRhdGEiOlsiMjgwMzpjMTgwOjIwMDA6NTM1OTo0NzoyNzJlOmU1YTQ6NmE0NSIsIjB0cHVjb3c4Nml5eSIsIm4iLDEsIjdlZWViODUzM2RhMGM5NjY4NTI0MzAzOTY1MWI0ODk0Il19.LR0zyj2T8lbUqWki_Ub8K1Lz1tmzXAueeMC85ncuW78.mp4
 #EXTINF:-1 ,Tio Frank
 http://144.217.180.154/SERVIDOR_3/Uncle%20Frank%20(2020)%201080p%20Latino.mp4
 #EXTINF:-1 ,The Prom
@@ -58,3 +56,5 @@ http://144.217.180.154/SERVIDOR_3/Tengo%20miedo%20torero%202020.mp4
 http://144.217.180.154/SERVIDOR_3/Wolfwalkers_2020_DVDCustom_HD_NTSC_Latino.mp4
 #EXTINF:-1 ,The Crood 2
 http://144.217.180.154/SERVIDOR_3/The_Croods_A_New_Age_2020.mp4
+#EXTINF:-1 ,Greyhound
+http://62.210.190.73/Movies/ACCION/Greyhound%20(2020-Dual).mkv
