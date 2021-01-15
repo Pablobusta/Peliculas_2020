@@ -37,7 +37,7 @@ https://www642.ff-02.com/token=HiW0ISo_4KJd4A33_ngcfg/1610676047/2803:c180::/138
 https://srv213.hollywood.to/5k7x2qfiwyvfjuw5luji3xady2jcwk5aohlqlrfuomabsfx7kuq5foey34hq/fc3135c5bab784f73edbdfaf43c1bfc4.mp4
 #EXTINF:-1 ,Hillbilly
 #EXTINF:-1 ,His House
-https://861495947.tapecontent.net/radosgw/VVRqADgWkwiKWDX/ii-xF2IjRaLNzbSZSZ4HuxssBcYNfABwajZnMC5Wbkn0GlXVBTFy23BHuxg9FF8BkNwUBDyeUcE_3NEy6nly3dvSNsnXOJ8tnCXhFD-V4qCQzxg2CQYHwwKkHjL7FymK90BpAWbBw5ltmN04e3z7-DsEzriue00AZahxkqYjoQshx-kBHRz2TPA1bnE_4yXCmFOiYUXxWMWm1EnydqAC5XTY54IzN3Rh3VeCFUBX2U0b_1lryO5eUGtlK2AZNMKTpQ3LZe45unwZK3uhxG2djbA2FhBkI-wBJw419A/L56kygjX2q7.mp4
+https://bs1.hlssrv.com/hls_serve_mp4/bvgJHVWkKmyJaHSupZdS.mp4?md5=tveq6zcU06N3pip_Mfksrw&expires=1610684881
 #EXTINF:-1 ,Tio Frank
 http://144.217.180.154/SERVIDOR_3/Uncle%20Frank%20(2020)%201080p%20Latino.mp4
 #EXTINF:-1 ,The Prom
@@ -62,3 +62,5 @@ http://144.217.180.154/SERVIDOR_3/The_Croods_A_New_Age_2020.mp4
 http://62.210.190.73/Movies/ACCION/Greyhound%20(2020-Dual).mkv
 #EXTINF:-1 ,Pienso en el final
 https://wwx.hlssrv.com/hls_serve_mp4/EzjnaEHBP58SqzvQ0vkZ.mp4
+#EXTINF:-1 ,Billy & Ted Face The Music
+http://144.217.180.154/SERVIDOR_3/Bill_&_Ted_Face_The_Music_2020_R1_NTSC_DVDR_Latino_5_1.mp4
