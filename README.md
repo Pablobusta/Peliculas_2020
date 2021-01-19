@@ -62,5 +62,41 @@ http://144.217.180.154/SERVIDOR_3/The_Croods_A_New_Age_2020.mp4
 http://62.210.190.73/Movies/ACCION/Greyhound%20(2020-Dual).mkv
 #EXTINF:-1 ,Pienso en el final
 https://wwx.hlssrv.com/hls_serve_mp4/EzjnaEHBP58SqzvQ0vkZ.mp4
+#EXTINF:-1 ,Im_Thinking_of_Ending_Things
+http://144.217.180.154/SERVIDOR_2/Im_Thinking_of_Ending_Things_2020_DVDCustom_HD_Latino.mp4
 #EXTINF:-1 ,Billy & Ted Face The Music
 http://144.217.180.154/SERVIDOR_3/Bill_&_Ted_Face_The_Music_2020_R1_NTSC_DVDR_Latino_5_1.mp4
+#EXTINF:-1 , Wonder Woman 2020
+http://144.217.180.154/SERVIDOR_3/Wonder%20Woman%201984%202020%20DVDCustom.mp4
+#EXTINF:-1 ,Zappa
+http://144.217.180.154/SERVIDOR_3/Zappa_2020_hdrip_720p_subesp_ES.mp4
+#EXTINF:-1 ,Rompan Todo cap1 al 3
+http://144.217.180.154/SERVIDOR_3/ROMPAN%20TODO%20LA%20HISTORIA%20DEL%20ROCK%20EN%20AMERICA%20LATINA%2001%20TEMP%20DVD%2001_CAP1A3.mp4
+#EXTINF:-1 ,Rompan todo cap 4 al 6
+http://144.217.180.154/SERVIDOR_3/ROMPAN%20TODO%20LA%20HISTORIA%20DEL%20ROCK%20EN%20AMERICA%20LATINA%2001%20TEMP%20DVD%2002_cap4a6.mp4
+#EXTINF:-1 ,Transhood
+http://144.217.180.154/SERVIDOR_3/Transhood_2020_1080p.mp4
+#EXTINF:-1 ,Emma
+http://144.217.180.154/SERVIDOR_2/EMMA%20(2020).mp4
+#EXTINF:-1 ,Enola Holmes
+http://144.217.180.154/SERVIDOR_2/Enola_Holmes_2020_Custom_DVD_HD_Latino.mp4
+#EXTINF:-1 ,The King Of The Staten Island
+http://144.217.180.154/SERVIDOR_2/THE%20KING%20OF%20STATEN%20ISLAND.mp4
+#EXTINF:-1 ,Da 5 Bloods
+http://144.217.180.154/SERVIDOR_2/Da_5_Blood_2020_DVDCustom_HD_NTSC_Latino.mp4
+#EXTINF:-1 ,The_Invisible_Man_2020
+http://144.217.180.154/SERVIDOR_2/The_Invisible_Man_2020_DVDR_R1_NTSC_Latino.mp4
+#EXTINF:-1 , Tengo Miedo Torero
+http://62.210.190.73/Movies/DRAMA/Tengo%20Miedo%20Torero%20(Lat-2020).mkv
+#EXTINF:-1 ,Sonic La Pelicula
+http://5.9.94.182/master/Peliculas%202020/SonicLaPelicula-PelisLatino++.mp4
+#EXTINF:-1 ,Trolls 2
+http://5.9.94.182/master/Peliculas%202020/Trolls%202%201080p%20WebDL%20Lat%20-%20elCine.mkv
+#EXTINF:-1 ,Onward 2020
+http://5.9.94.182/master/Peliculas247/Peliculas%20infantiles/Onward.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:-1 ,The Devil All The Time
+http://144.217.180.154/SERVIDOR_2/EL%20DIABLO%20A%20TODAS%20HORAS.mp4
+#EXTINF:-1 ,Never Rarely Sometimes Always
+http://144.217.180.154/SERVIDOR_2/Never_Rarely_Sometimes_Always_2020_DVD_R1_NTSC_Latino.mp4
+Showbiz Kids
+http://144.217.180.154/SERVIDOR_2/Showbiz%20Kids_2020_hdrip_720p_subesp.mp4
