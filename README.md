@@ -33,9 +33,7 @@ http://144.217.180.154/SERVIDOR_3/Soul%5b2020%5d.mp4
 #EXTINF:-1 ,Ammonite
 https://www467.ff-01.com/token=HcwpILVaL2uMqTBm-fKLXg/1610671368/2803:c180::/140/f/1d/2844799ece4efbd2de6152edd27db1df-720p.mp4
 #EXTINF:-1 ,Hillbilly
-https://www642.ff-02.com/token=HiW0ISo_4KJd4A33_ngcfg/1610676047/2803:c180::/138/b/58/062ce04a9686d3b75a35683d37c7758b-1080p.mp4
-https://srv213.hollywood.to/5k7x2qfiwyvfjuw5luji3xady2jcwk5aohlqlrfuomabsfx7kuq5foey34hq/fc3135c5bab784f73edbdfaf43c1bfc4.mp4
-#EXTINF:-1 ,Hillbilly
+https://archive.org/download/i-hate-summer-2020/Hillbilly%2C%20una%20elegi%CC%81a%20rural%20%282020%29.mp4
 #EXTINF:-1 ,His House
 https://bs1.hlssrv.com/hls_serve_mp4/bvgJHVWkKmyJaHSupZdS.mp4?md5=tveq6zcU06N3pip_Mfksrw&expires=1610684881
 #EXTINF:-1 ,Tio Frank
