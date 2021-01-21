@@ -100,3 +100,5 @@ http://144.217.180.154/SERVIDOR_2/EL%20DIABLO%20A%20TODAS%20HORAS.mp4
 http://144.217.180.154/SERVIDOR_2/Never_Rarely_Sometimes_Always_2020_DVD_R1_NTSC_Latino.mp4
 Showbiz Kids
 http://144.217.180.154/SERVIDOR_2/Showbiz%20Kids_2020_hdrip_720p_subesp.mp4
+#EXTINF:-1 ,Hansel y Gretel (2020)
+http://51.77.66.14/Gretel%20&%20Hansel%20(2020)%20WEB-DL%201080p%20Latino/Gretel%20&%20Hansel%20(2020)%20WEB-DL%201080p%20Latino.mkv
