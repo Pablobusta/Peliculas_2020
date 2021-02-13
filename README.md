@@ -5,7 +5,7 @@ https://www800.ff-02.com/token=neGPYggQPyyLTZ_tVfUNUw/1610669141/2803:c180::/142
 #EXTINF:-1 ,minari
 http://144.217.180.154/SERVIDOR_3/Minari%202020%20720p.mp4
 #EXTINF:-1 ,hater
-http://sonicracing.xyz/peliculas/720/Hater.mkv
+https://axlgzvvexy.mstreamcdn.com/d/eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjpbIjI4MDM6YzE4MDoyMDAwOjUzNTk6NmQ2ZDphNjBhOjk5OTQ6NTIxZiIsIjBobnM5MHM4cHdqNyIsIm4iLDEsIjEzZGVlZTExYzJkMWRmZWEzNWRiNjBiNmIzZWUzYzQxIl0sImV4cCI6MTYxMzI5OTU2Mn0.qMsNSRO6GJjGDAsVdlBQ4H6BqPJFfbGWfac6-Ma72cs.mp4
 #EXTINF:-1 ,Animaniacs 2020 p1
 http://144.217.180.154/SERVIDOR_3/ANIMANIACS%20(2020)%2001%20TEMP%20DVD%2001_CAP1A5.mp4
 #EXTINF:-1 ,Animaniacs 2020 p2
